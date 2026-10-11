@@ -12,4 +12,4 @@ Backend / Systems / Infrastructure
 
 ---
 
-[Telegram](https://t.me/shokh372) · [Gmail](mailto:shokh6043@gmail.com)
+[Telegram](https://t.me/thisisshokha372) · [Gmail](mailto:shokh6043@gmail.com)
