@@ -1,16 +1,16 @@
-## Hi there 👋
+# Shokhzod Ergashev
 
-<!--
-**the-shokha/the-shokha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+18 y.o. · Software Developer · Moscow
 
-Here are some ideas to get you started:
+**Mostly backend. Sometimes everything else.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+`Python` · `Go`  · `Dart`
+
+Backend / Systems / Infrastructure
+
+---
+
+[Telegram](https://t.me/shokh372) ·
+[Gmail](shokh6043@gmail.com)
